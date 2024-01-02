@@ -1,0 +1,11 @@
+    GET/users  - display api
+
+    GET/api/users - display api
+
+    GET/api/users/:id - dynamic id
+
+    POST/api/users - create users
+
+    PATCH/api/users/id - 
+
+    DELETE/api/users/:id - delete userid
